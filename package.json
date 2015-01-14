@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JoseOneTime/jq_cheerio/issues"
   },
-  "homepage": "https://github.com/JoseOneTime/jq_cheerio"
+  "homepage": "https://github.com/JoseOneTime/jq_cheerio",
+  "dependencies": {
+    "cheerio": "^0.18.0"
+  }
 }
