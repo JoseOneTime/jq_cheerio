@@ -1,0 +1,20 @@
+{
+  "name": "jq_cheerio",
+  "version": "0.0.0",
+  "description": "attempts to do jquery tutorials with cheerio, for comparison's sake",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoseOneTime/jq_cheerio.git"
+  },
+  "author": "jose.one.time@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseOneTime/jq_cheerio/issues"
+  },
+  "homepage": "https://github.com/JoseOneTime/jq_cheerio"
+}
